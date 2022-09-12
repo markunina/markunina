@@ -11,4 +11,4 @@
 
 * [Дипломная работа](https://github.com/markunina/Diplom_search_engine.git)
 
-[Мой диплом о переподготовке на java-разработчика]()
+[Мой диплом о переподготовке на java-разработчика](https://github.com/markunina/Diplom_Scan/blob/main/img/Diplom.pdf)
